@@ -1,0 +1,67 @@
+[
+    {
+        "id": 6,
+        "nombreSuperheroe": "Thor",
+        "nombreReal": "Thor Odinson",
+        "nombreSociedad": "Avengers",
+        "edad": 1500,
+        "planetaOrigen": "Asgard",
+        "debilidad": "Separado de Mjolnir",
+        "poder": "Control del trueno y rel\u00e1mpago",
+        "habilidadEspecial": "Fuerza divina",
+        "aliado": "Loki",
+        "enemigo": "Hela"
+    },
+    {
+        "id": 7,
+        "nombreSuperheroe": "The Flash",
+        "nombreReal": "Barry Allen",
+        "nombreSociedad": "Justice League",
+        "edad": 29,
+        "planetaOrigen": "Tierra",
+        "debilidad": "Consumo energ\u00e9tico elevado",
+        "poder": "Supervelocidad",
+        "habilidadEspecial": "Viaje en el tiempo",
+        "aliado": "Green Lantern",
+        "enemigo": "Reverse Flash"
+    },
+    {
+        "id": 8,
+        "nombreSuperheroe": "Black Panther",
+        "nombreReal": "T'Challa",
+        "nombreSociedad": "Avengers",
+        "edad": 35,
+        "planetaOrigen": "Tierra (Wakanda)",
+        "debilidad": "Aislamiento de Vibranium",
+        "poder": "Fuerza, agilidad mejoradas",
+        "habilidadEspecial": "Traje de Vibranium",
+        "aliado": "Shuri",
+        "enemigo": "Killmonger"
+    },
+    {
+        "id": 9,
+        "nombreSuperheroe": "Captain Marvel",
+        "nombreReal": "Carol Danvers",
+        "nombreSociedad": "Avengers",
+        "edad": 35,
+        "planetaOrigen": "Tierra",
+        "debilidad": "Excesivo uso de energ\u00eda",
+        "poder": "Fuerza sobrehumana, vuelo",
+        "habilidadEspecial": "Absorci\u00f3n de energ\u00eda",
+        "aliado": "Nick Fury",
+        "enemigo": "Yon-Rogg"
+    },
+    {
+        "id": 10,
+        "nombreSuperheroe": "Aquaman",
+        "nombreReal": "Arthur Curry",
+        "nombreSociedad": "Justice League",
+        "edad": 32,
+        "planetaOrigen": "Atlantis",
+        "debilidad": "Deshidrataci\u00f3n fuera del agua",
+        "poder": "Control del agua, comunicarse con criaturas marinas",
+        "habilidadEspecial": "Nadar a velocidades incre\u00edbles",
+        "aliado": "Mera",
+        "enemigo": "Black Manta"
+    }
+]
